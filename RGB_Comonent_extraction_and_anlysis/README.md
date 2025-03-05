@@ -23,7 +23,8 @@ This MATLAB script reads an image and displays its RGB components in separate su
 
 **RGB Splitting Output:**
 
-![](![output2](https://github.com/user-attachments/assets/3ec8d657-dfca-4425-996e-aa777327896a))
+![output2](https://github.com/user-attachments/assets/614c8f03-30dc-4c66-a97b-7e9cf107c888)
+
 
 **Greyscale Algorithms:** Implements and displays the following greyscale methods:
 
@@ -43,7 +44,8 @@ This MATLAB script reads an image and displays its RGB components in separate su
 
   ![](https://github.com/user-attachments/assets/da813fe2-d44f-4c9e-847b-c3dfaa4148f9)
  
-![](![output](https://github.com/user-attachments/assets/bf2c40a2-4cbd-4bc0-b0c4-b07a0b541cf5))
+![output](https://github.com/user-attachments/assets/21793e39-e0eb-4df2-915c-f35096d7b76e)
+
 
 ## Author
 
