@@ -25,7 +25,7 @@ This MATLAB script performs histogram equalization on a grayscale image to enhan
 - Applies histogram equalization to enhance the image contrast.
 
 ## Output
-![]![alt text]![alt text](output-1.jpg)
+![]![alt text]![alt text](output.jpg)
 
 
 ## Author
